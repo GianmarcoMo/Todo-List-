@@ -1,0 +1,34 @@
+.titolo{
+    color: cornflowerblue;
+    text-align: center;
+    margin-top: 2%;
+    font-family: 'Mali', cursive;
+    font-size: 38px;
+}
+.spazio{
+    margin: 2px;
+}
+
+#lista{
+    margin: auto;
+    text-align: center;
+    font-family: 'PT Sans', sans-serif;
+}
+
+li{
+  width: 184px;
+  margin: auto;
+}
+
+.container{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 11px;
+}
+.istruzioni{
+    list-style-type: none;
+}
+footer{
+    font-size: 10px;
+    text-align: center;
+}
